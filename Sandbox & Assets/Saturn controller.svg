@@ -10,7 +10,7 @@
    xml:space="preserve"
    sodipodi:docname="Saturn controller.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   inkscape:export-filename="!Saturn controller detailed.png"
+   inkscape:export-filename="Gamepad Viewer\Base.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,8 +29,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="265"
-     inkscape:cy="145"
+     inkscape:cx="96"
+     inkscape:cy="145.5"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -514,7 +514,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Shoulders"
-     style="display:none;paint-order:stroke fill markers"><path
+     style="display:inline;paint-order:stroke fill markers"><path
        style="display:inline;fill:#ff6fa0;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:normal"
        d="m 16.142573,14.113943 c 0,-2.558595 8.004469,-10.2739407 11.500646,-12.1469998 4.643369,-2.48766161 17.370604,-2.05802686 17.370604,-0.8632145"
        id="path8220"
@@ -883,7 +883,7 @@
      inkscape:label="Buttons (Detailed)"
      style="display:inline"><g
        id="g2932"
-       transform="matrix(1,0,0,-1,-0.52613068,7.226104)"
+       transform="matrix(1,0,0,-1,-0.52612902,7.226104)"
        inkscape:label="Player state"
        style="display:inline"
        inkscape:export-filename="Gamepad Viewer\Player 4 State.svg"
